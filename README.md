@@ -1,6 +1,6 @@
 # Setting up RapsberryPi with Macbook Pro late 2019 Mojave 10.14.5 (headless/monitor, keyboard, and mouse are not needed)
 Hardware: 
-1. Router + RJ45 or teh ethernet cable
+1. Router + RJ45 or an ethernet cable
 2. Raspberry Pi kit: Raspberry Pi 3 Model B+, 32GB SD card, sd card reader, 5V power supply
 
 Software: 
