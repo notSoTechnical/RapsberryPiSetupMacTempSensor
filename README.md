@@ -17,7 +17,7 @@ Details:
 3. Wait for approximately 5 minutes; eject the sd card when it's done
 4. Insert the sd card again; "boot" should be on the destop
 5. Open TextEdit and save the textfile's name as ssh; plain text: UTF-8; put the ssh file into the boot folder; eject boot/sd card
-6. Insert SD card into thge Raspberry; connect the ethernet cable to the pi; Power the Pi
+6. Insert SD card into the Raspberry Pi; connect the ethernet cable to the pi; Power the Pi
 7. Open terminal; ping raspberrypi.local; ssh pi@raspberrypi.local or ssh pi@ip.local; password: raspberry
 8. Enter this in the terminal to configure the pi: sudo raspi-config; Config advanced option to expand the filesystem; finish+ reboot
 
