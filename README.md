@@ -21,5 +21,5 @@ Details:
 7. Open terminal; ping raspberrypi.local; ssh pi@raspberrypi.local or ssh pi@ip.local; password: raspberry
 8. Enter this in the terminal to configure the pi: sudo raspi-config; Config advanced option to expand the filesystem; finish+ reboot
 
-# RapsberryPiTempSensor
+# Rapsberry Pi Temperature Sensor
 Instructions: https://www.thegeekpub.com/236867/using-the-dht11-temperature-sensor-with-the-raspberry-pi/
