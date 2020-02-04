@@ -1,4 +1,4 @@
-# Setting up RapsberryPi with Macbook Pro late 2019 Mojave 10.14.5 (headless/monitor, keyboard, and mouse are not needed)
+# Setting up Rapsberry Pi with Macbook Pro late 2019 Mojave 10.14.5 (headless/monitor, keyboard, and mouse are not needed)
 Video: https://www.youtube.com/watch?v=-v88m-HYeys
 
 Hardware: 
